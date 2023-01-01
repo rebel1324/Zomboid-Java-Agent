@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Premain-Class: com.zomboid.javaagent.AgentMain
+Agent-Class: com.zomboid.javaagent.AgentMain
+Can-Redefine-Classes: true
